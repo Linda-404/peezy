@@ -1,0 +1,82 @@
+// --typography--
+
+// font family
+
+h1, h2, h3, h4, p, .nav-link, .btn, .btn-full {
+    font-family: 'Nunito', sans-serif;
+}
+
+// font weight
+
+h1, h2, h3, .nav-link, .btn, .btn-full {
+    font-weight: 700;
+}
+p{
+    font-weight: 400;
+}
+
+// font size
+
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 20px;
+}
+h3, h4 {
+    font-size: 18px;
+}
+p{
+    font-size: 16px;
+}
+.nav-link {
+    font-size: 18px;
+}
+
+//Typography effects
+
+.banner-text-effect h1 {
+    display: inline-block;
+    font-size: 50px;
+    color: transparent;
+    padding: 0.2em;
+    animation: fadeIn linear 2s forwards;
+    -webkit-animation: fadeIn linear 2s forwards;
+    -moz-animation: fadeIn linear 2s forwards;
+}
+  
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;
+    color: var(--black);}
+}
+
+@-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;
+    color: var(--black);}
+}
+
+@-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;
+    color: var(--black);}
+}
+
+.banner-text-effect h1:nth-child(2) {
+    animation-delay: 0.3s;
+}
+.banner-text-effect h1:nth-child(3) {
+    animation-delay: 0.6s;
+}
+
+.headline {
+    border-top: 2px solid var(--black);
+    border-bottom: 2px solid var(--black);
+    display: flex;
+    justify-content: center;
+}
+.headline h2 {
+    margin: 0;
+    padding: 0.5em;
+}
