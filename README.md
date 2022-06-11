@@ -1,7 +1,7 @@
 # Peezy
 
 This is an online Shoe Store for urban and sport sneakers.
-I built this as my sommer project year 2 for my studies in front-end development.
+I built this as my first semester project year 2 for my studies in front-end development.
 
 ## Description
 
