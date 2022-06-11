@@ -18,16 +18,12 @@ This is an online Shoe Store for urban and sport sneakers
 
 ## Getting started
 
-1. Clone the repo: 
-`https://github.com/spoilralert/spoilralert.git`
-
-2. Install independencies:
-`npm install`
+Clone the repo: 
+`https://github.com/Linda-404/peezy.git`
 
 ## Running
 
-To run the app, use the following command:
-`npm run start`
+In VSC: use live server
 
 ## Contact
 
