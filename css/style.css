@@ -402,6 +402,7 @@ footer {
 
 .featured-container {
   display: flex;
+  justify-content: center;
   max-width: 90%;
 }
 
