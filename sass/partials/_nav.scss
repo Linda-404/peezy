@@ -1,5 +1,12 @@
 // --navigation--
 
+.logo {
+    padding: 10px;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
 .navbar-toggler-icon {
     display: none;
 }
