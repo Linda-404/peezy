@@ -30,3 +30,7 @@ In VSC: use live server
 ## Contact
 
 [My Linkedin page](https://www.linkedin.com/in/linda-nilsson-8b82b01b2/)
+
+## Live site
+
+[Peezy page](https://peezy-shoes.netlify.app/)
