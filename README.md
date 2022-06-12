@@ -2,6 +2,7 @@
 
 This is an online Shoe Store for urban and sport sneakers.
 I built this as my first semester project year 2 for my studies in front-end development.
+Goal for this project was to create an e-commerce website that has both customer-facing and admin sections. Both sections should be responsive and the website will be populated by a Strapi API supplied by Noroff.
 
 ## Description
 
